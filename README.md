@@ -38,6 +38,8 @@
     
     fi
 
+<img width="488" alt="1" src="https://user-images.githubusercontent.com/83408966/122240781-47091480-ced7-11eb-9662-b18422d03770.PNG">
+
 -------------------------------
 
 سوال 2
@@ -56,6 +58,8 @@
   
     done
 
+<img width="683" alt="2" src="https://user-images.githubusercontent.com/83408966/122240852-54260380-ced7-11eb-9837-29cbaf26a197.PNG">
+
 -------------------------------
 
 سوال 3
@@ -72,6 +76,8 @@
     do
         mv $file $dir/img$((cnt = cnt + 1)).png
     done
+
+<img width="408" alt="3" src="https://user-images.githubusercontent.com/83408966/122240900-5b4d1180-ced7-11eb-81dd-07887e762b9b.PNG">
 
 -------------------------------
 
@@ -100,3 +106,4 @@
         echo "Please Try Again!!!"
     fi
 
+<img width="489" alt="4" src="https://user-images.githubusercontent.com/83408966/122240934-643de300-ced7-11eb-9208-770775d7bb60.PNG">
